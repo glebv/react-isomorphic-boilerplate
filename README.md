@@ -43,3 +43,4 @@ When the servers are started, visit `http://localhost:3000` to see a Hello world
 ## Thanks
 
 While outdated, this repo was heavily inspired by [acdlite](http://github.com/acdlite) and his [demo app for flummox](https://github.com/acdlite/flummox-isomorphic-demo) 
+
